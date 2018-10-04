@@ -1,7 +1,21 @@
 {
-  "main.css": "static/css/main.db554678.css",
-  "main.css.map": "static/css/main.db554678.css.map",
-  "main.js": "static/js/main.2c8e6c0e.js",
-  "main.js.map": "static/js/main.2c8e6c0e.js.map",
-  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg"
+  "main.css": "static/css/main.d1fe5725.css",
+  "main.css.map": "static/css/main.d1fe5725.css.map",
+  "main.js": "static/js/main.4f9fd66d.js",
+  "main.js.map": "static/js/main.4f9fd66d.js.map",
+  "static\\media\\attach.svg": "static/media/attach.b06a4fb8.svg",
+  "static\\media\\chronometer.svg": "static/media/chronometer.dff1604d.svg",
+  "static\\media\\exit.svg": "static/media/exit.b280b862.svg",
+  "static\\media\\groups_config.svg": "static/media/groups_config.70973086.svg",
+  "static\\media\\hold.svg": "static/media/hold.729589bd.svg",
+  "static\\media\\logo.svg": "static/media/logo.ee7cd8ed.svg",
+  "static\\media\\mountain_gray_bg.png": "static/media/mountain_gray_bg.79893b5b.png",
+  "static\\media\\mountains_bg.png": "static/media/mountains_bg.4bca02ce.png",
+  "static\\media\\star.svg": "static/media/star.d96f9f8e.svg",
+  "static\\media\\steam-makers.png": "static/media/steam-makers.45f5d0de.png",
+  "static\\media\\steam_makers.png": "static/media/steam_makers.fd62b088.png",
+  "static\\media\\tree_bg.png": "static/media/tree_bg.c3a20c66.png",
+  "static\\media\\trophy.svg": "static/media/trophy.dc102c73.svg",
+  "static\\media\\user.svg": "static/media/user.6bfae81c.svg",
+  "static\\media\\zoom.svg": "static/media/zoom.5c105ead.svg"
 }
